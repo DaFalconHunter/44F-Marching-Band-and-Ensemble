@@ -87,7 +87,6 @@ Sgt Fernandes requires:
 - Cpl Mbale - Attending
 - Cpl Patel J - Attending
 - Cpl Patel S - Attending
-- Cpl Wilson
 - Cdt Spearman - Attending
 
 Notes:
