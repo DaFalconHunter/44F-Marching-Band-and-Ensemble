@@ -98,7 +98,7 @@ Members:
 - CWO Jenkins - Piano, Voice
 - FS Patel - Violin
 - Sgt Enwemasor - Flute
-- Sgt Kaur/Cdt Salaam B - Bass Drum
+- Sgt Kaur/Cdt Salaam B (possibly) - Bass Drum
 - Cpl Mbale - Violin
 - Cpl Patel S - Voice
 
@@ -108,7 +108,7 @@ Members:
 ### Marching
 
 - [ ] Imperial March, from Star Wars
-- [ ] Oh When The Saints Go Marching In
+- [x] Oh When The Saints Go Marching In
 - [ ] Grenadiers march – British army
 - [ ] Heart of Oak, the official march of the Royal Navy
 - [ ] Those Magnificent Men in Their Flying Machines
