@@ -20,9 +20,7 @@ This repository contains all marching &amp; ensemble related documents
 
 Requirements:
 - All performers ready by 2nd June
-- Total playing time: 27 minutes
-- Marching Band: 17 minutes
-- No singers – Ensemble playing: 10 minutes
+- Total playing time: 10 minutes
 - Music deadline: Monday 15th April 2024
 - Associates: 2387 Pudsey Squadron
 - Format: If possible marching on playing, then static
@@ -109,11 +107,9 @@ Members:
 
 - [x] Imperial March, from Star Wars
 - [x] Oh When The Saints Go Marching In
+- [x] Highland Cathedral
 - [ ] Grenadiers march – British army
 - [ ] Heart of Oak, the official march of the Royal Navy
-- [ ] Those Magnificent Men in Their Flying Machines
-- [ ] The Great Escape Theme
-- [ ] (Some Irish song)
 
 ### Ensemble
 
@@ -125,5 +121,5 @@ Members:
 
 **Wing Band Comp**: RBL Song
 
-**Presentation Night Violin Duet**: Shostakovich Waltz No. 2
+**Presentation Night Violin Duet**: Shostakovich Waltz No. 2 Duet
 
