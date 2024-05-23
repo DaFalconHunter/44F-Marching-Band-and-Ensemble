@@ -121,5 +121,6 @@ Members:
 
 **Wing Band Comp**: RBL Song
 
-**Presentation Night Violin Duet**: Shostakovich Waltz No. 2 Duet
+**Presentation Night Violin Duet**: Shostakovich Waltz No. 2 Duet to be purchased by 44F Squadron
 
+[Link to Shostakovich Sheet Music (£9.03)](https://www.scorestore.co.uk/violin/shostakovich-waltz-no-2-for-two-violins-published-by-universal.html)
