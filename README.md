@@ -1,6 +1,14 @@
 # 44F Marching Band & Ensemble
 This repository contains all marching &amp; ensemble related documents
 
+### Cpl Mbale's Band Todos:
+
+- [ ] Confirm Cdt Pashley's attendance on Armed Forces Day
+- [ ] Confirm whether Cdt Rajesh & Salaam H are playing Cymbals on Armed Forces Day
+- [ ] Gather lists of Pudsey Sqn Attendees for Marching Band
+- [ ] Count total snares, and functioning snares for future Percussion members
+- [ ] Get Cpl Patel S & Cpl Spearman on track to master British Grenadiers and Hearts of Oak by Armed Forces Day
+- [ ] Transpose Shostakovich Violin Duet from D Minor to C Minor once purchased
 
 ## Chain of Command
 
@@ -24,7 +32,7 @@ Requirements:
 - Total playing time: 10 minutes
 - Music deadline: Monday 15th April 2024
 - Associates: 2387 Pudsey Squadron
-- Format: If possible marching on playing, then static
+- Format: Marching on & off playing Saints, static throughout
 - Possibly may have continuity
 
 **June 2024** (Date tbc) – Presentation Night @ location tbc
@@ -63,33 +71,45 @@ Requirements:
 
 ### Marching
 
-Percussion:
-- Sgt Fernandes (Snare) – Attending 
-- Sgt Kaur (Snare) - Attending
-- Sgt Rhodes (Snare) - Attending
-- Cdt Pashley (Snare)
-- Cdt Rajesh (Snare) (Ahmed I reserve)
-- Cdt Salaam B (Bass Drum) - Not Attending (replacement needed)
-- Cdt Salaam H (Snare) - Attending
+Percussion 44F:
+- Sgt Fernandes (Snare) – Attending Armed Forces Day
+- Sgt Kaur (Snare) - Attending Armed Forces Day
+- Sgt Rhodes (Snare) - Attending Armed Forces Day
+- Cdt Pashley (Snare) - Attendance tbc by Monday evening
+- Cdt Rajesh (Snare) (Ahmed I reserve) - Attending Armed Forces Day as Cymbals
+- Cdt Salaam B (Bass Drum) - Not Attending Armed Forces Day (replaced by Pudsey Sqn)
+- Cdt Salaam H (Snare) - Attending Armed Forces Day as Cymbals
+
+Percussion 2387:
+- To be completed on Monday evening
 
 Instruments:
-3 Tenors 3 snares and 1 bass 2 cymbals
+3 Tenors, # snares and 1 bass 2 cymbals
 
 Notes:
+- Cdt Pashley currently in training on Snare
+- Cdts Rajesh, Ahmed I, Salaam B & H to be trained by Sgt Clay on Snare
+- No. of snares to be recounted and adjusted to accomodate for future Percussion members
+- FS Mistry currently undergoing Bass Drum training at North Region Band camp, looking at Drum Major role in future
+
 Sgt Fernandes requires:
 - 5 more pairs of thick beating sticks
 
 ### Bell Lyre
 
-- FS Patel - Attending
-- Sgt Enwemasor - Attending
-- Cpl Mbale - Attending
-- Cpl Patel J - Attending
-- Cpl Patel S - Attending
-- Cdt Spearman - Attending
+Bell Lyre 44F:
+- FS Patel - Attending Armed Forces Day
+- Sgt Enwemasor - Attending Armed Forces Day
+- Cpl Mbale - Attending Armed Forces Day
+- Cpl Patel J - Attending Armed Forces Day
+- Cpl Patel S - Attending Armed Forces Day
+- Cdt Spearman - Attending Armed Forces Day
+
+Bell Lyre 2387:
+- To be completed on Monday evening
 
 Notes:
-Currently have 3 performance lyres – 2 flat 1 standing - need more for the whole group
+- 1 Rather sonorous bell lyre, 3 normal bell lyres, 2 flat beds (glockenspiels)
 
 ### Ensemble
 
