@@ -6,10 +6,11 @@ This repository contains all marching &amp; ensemble related documents
 
 1. Sgt Clay (OC WO Rouse on behalf of Sgt Clay if he is absent)
 2. OC WO Rouse
-3. CWO Jenkins (Marching & Ensemble)
-4. Sgt Fernandes (Marching – Percussion)
-5. FS Patel (Marching – Bell lyres)
-6. Sgt Enwemasor (Bugles)
+3. Cpl Mbale (Oversees & co-ordinates Marching Band & Ensemble)
+4. CWO Jenkins (2IC – Oversees Ensemble)
+5. Sgt Fernandes (Marching – Percussion)
+6. FS Patel (Marching – Bell lyres)
+7. Sgt Enwemasor (Bugles)
 
 
 ## 44F 2024 Events
