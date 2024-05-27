@@ -3,8 +3,9 @@ This repository contains all marching &amp; ensemble related documents
 
 ### Cpl Mbale's Band Todos:
 
-- [ ] Confirm Cdt Pashley's attendance on Armed Forces Day
-- [ ] Confirm whether Cdt Rajesh & Salaam H are playing Cymbals on Armed Forces Day
+- [x] Confirm Cdt Pashley's attendance on Armed Forces Day
+- [x] Confirm whether Cdt Rajesh is playing at Armed forces day
+- [x] Confirm Cdt Salaam H is not playing Snares on Armed Forces Day
 - [ ] Gather lists of Pudsey Sqn Attendees for Marching Band
 - [ ] Count total snares, and functioning snares for future Percussion members
 - [ ] Get Cpl Patel S & Cpl Spearman on track to master British Grenadiers and Hearts of Oak by Armed Forces Day
@@ -75,20 +76,19 @@ Percussion 44F:
 - Sgt Fernandes (Snare) – Attending Armed Forces Day
 - Sgt Kaur (Snare) - Attending Armed Forces Day
 - Sgt Rhodes (Snare) - Attending Armed Forces Day
-- Cdt Pashley (Snare) - Attendance tbc by Monday evening
-- Cdt Rajesh (Snare) (Ahmed I reserve) - Attending Armed Forces Day as Cymbals
+- Cdt Pashley (Snare) - Attending Armed Forces Day
+- Cdt Rajesh (Snare) (Ahmed I reserve) - Attending Armed Forces Day
 - Cdt Salaam B (Bass Drum) - Not Attending Armed Forces Day (replaced by Pudsey Sqn)
-- Cdt Salaam H (Snare) - Attending Armed Forces Day as Cymbals
+- Cdt Ahmed I (Snare) - Attending Armed Forces Day
 
 Percussion 2387:
 - To be completed on Monday evening
 
 Instruments:
-3 Tenors, # snares and 1 bass 2 cymbals
+3 Tenors, 6 snares, 1 bass, 2 cymbals
 
 Notes:
-- Cdt Pashley currently in training on Snare
-- Cdts Rajesh, Ahmed I, Salaam B & H to be trained by Sgt Clay on Snare
+- Cdts Pashley, Ahmed I & Rajesh to be trained on Snare Drum following Armed Forces Day
 - No. of snares to be recounted and adjusted to accomodate for future Percussion members
 - FS Mistry currently undergoing Bass Drum training at North Region Band camp, looking at Drum Major role in future
 
