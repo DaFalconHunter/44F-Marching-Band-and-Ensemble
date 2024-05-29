@@ -42,7 +42,7 @@ Requirements:
 - All performers ready by June
 - Total playing time: ~13-14 minutes
 - Marching Band: 10 minutes
-- Violin Duet (Cpl Mbale & FS Patel) : 3-4 minutes
+- Violin Duet (Cpl Mbale & FS Patel) : 3 minutes and 50 seconds
 - Music deadline: Monday 15th April 2024
 - Format: tbc
 
