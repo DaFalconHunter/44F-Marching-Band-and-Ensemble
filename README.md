@@ -3,12 +3,7 @@ This repository contains all marching &amp; ensemble related documents
 
 ### Cpl Mbale's Band Todos:
 
-- [x] Confirm Cdt Pashley's attendance on Armed Forces Day
-- [x] Confirm whether Cdt Rajesh is playing at Armed forces day
-- [x] Confirm Cdt Salaam H is not playing Snares on Armed Forces Day
-- [ ] Gather lists of Pudsey Sqn Attendees for Marching Band
-- [ ] Count total snares, and functioning snares for future Percussion members
-- [ ] Get Cpl Patel S & Cpl Spearman on track to master British Grenadiers and Hearts of Oak by Armed Forces Day
+- [ ] Only instruments for ensemble - no voice or drums
 - [ ] Transpose Shostakovich Violin Duet from D Minor to C Minor once purchased
 
 ## Chain of Command
